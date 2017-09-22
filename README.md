@@ -14,9 +14,9 @@ it installs:
 * load-grunt-tasks
 
 3.Compiling your script file run:
-**babel script.js --out-file script-compiled.js**
+**babel dev/scripts/script.js --out-file js/script-compiled.js**
 
 or to watch
-**babel script.js --watch --out-file script-compiled.js**
+**babel dev/scripts/script.js --watch --out-file js/script-compiled.js**
 
 4.That's it, have fun Coding!!
