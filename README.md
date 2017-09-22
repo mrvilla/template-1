@@ -1,6 +1,10 @@
-1. Open project in Terminal
+## Easy Setup
+1.After downloading the template open template in Terminal
 
-2. Run **npm install** it installs:
+2.Run
+**npm install**
+
+it installs:
 * babel
 * babel-cli
 * grunt
@@ -9,12 +13,10 @@
 * grunt-sass
 * load-grunt-tasks
 
-2. To Compile your script file you have to run:
-
+3.Compiling your script file run:
 **babel script.js --out-file script-compiled.js**
 
-to watch run:
-
+or to watch
 **babel script.js --watch --out-file script-compiled.js**
 
-3. That's it, have fun Coding!!
+4.That's it, have fun Coding!!
